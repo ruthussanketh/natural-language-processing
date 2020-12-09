@@ -22,4 +22,4 @@ Experimenting with POS tagging, a standard sequence labeling task using CRFs wit
 
 5. Word and Character Based LSTM Models <br>
 Building and analyzing word and character based LSTM models. Two different character based models are also trained and compared. <br>
-[Medium article](https://ruthussanketh.medium.com/word-and-character-based-lstms-12eb65f779c2)
+[Medium article](https://towardsdatascience.com/word-and-character-based-lstms-12eb65f779c2)
