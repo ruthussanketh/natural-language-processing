@@ -8,7 +8,7 @@ This repository is a set of 5 tutorials which provide a basic knowledge about NL
 Explains the basic preprocessing tasks to be performed before training almost any model. Covers stemming and lemmatization and their differences. <br> 
 [Medium article](https://towardsdatascience.com/text-preprocessing-with-nltk-9de5de891658)
 
-2. Language Modelling <br>
+2. Language Modeling <br>
 Building and studying statistical language models from a corpus dataset. Unigram, bigram, trigram and fourgram models are covered. <br>
 [Medium article](https://medium.com/swlh/language-modelling-with-nltk-20eac7e70853)
 
